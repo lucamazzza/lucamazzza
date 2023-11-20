@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://media4.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e47q54vc53x5alubbi6268cajjbgykg4ku68tvshnou&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img src="https://media1.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e479khk89lyqvytwfvzckv9z8p3yll2i1db1m7hvvwe&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   <hr>
   
   [![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lucamazzza)
