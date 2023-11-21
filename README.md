@@ -66,10 +66,10 @@ DBs:
 
 <div id="header" align="center">
   <a href="https://github.com/lucamazzza/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucamazzza&rank_icon=github&bg_color=111&title_color=fff&text_color=fff" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucamazzza&rank_icon=github&bg_color=111&title_color=fff&text_color=fff" />
   </a>
   <a href="https://github.com/lucamazzza">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucamazzza&layout=compact&langs_count=8&bg_color=111&title_color=fff&text_color=fff" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucamazzza&layout=compact&langs_count=8&bg_color=111&title_color=fff&text_color=fff" />
   </a>
 </div>
 
