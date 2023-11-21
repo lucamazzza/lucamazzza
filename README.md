@@ -45,7 +45,6 @@ Frameworks & Package managers:
 <a href="https://www.npmjs.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/></a>&nbsp;
 <a href="https://dotnet.microsoft.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET"  alt=".NET" width="40" height="40"/></a>&nbsp;
 <a href="https://www.nuget.org" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="NuGet"  alt="NuGet" width="40" height="40"/></a>&nbsp;
-<a href="https://git-scm.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git"  alt="git" width="40" height="40"/></a>&nbsp;
 
 IDEs:
 
