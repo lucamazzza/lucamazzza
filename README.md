@@ -63,10 +63,13 @@ DBs:
 <a href="https://mongodb.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/></a>&nbsp;
 
 ## 🔥 My stats
+
 <div id="header" align="center">
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucamazzza&theme=dark&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&card_width=750)](https://git.io/streak-stats)
-
+  <a href="https://github.com/lucamazzza/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucamazzza&rank_icon=github&bg_color=111&title_color=fff&text_color=fff" />
+  </a>
+  <a href="https://github.com/lucamazzza">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucamazzza&layout=compact&langs_count=8&bg_color=111&title_color=fff&text_color=fff" />
+  </a>
 </div>
-
 
