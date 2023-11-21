@@ -39,27 +39,29 @@ Scripting & Markup languages:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5"  alt="HTML5" width="40" height="40"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3"  alt="CSS3" width="40" height="40"/></a>&nbsp;
 
-Frameworks:
+Frameworks & Package managers:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET"  alt=".NET" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="NuGet"  alt="NuGet" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git"  alt="git" width="40" height="40"/>&nbsp;
+<a href="https://gradle.org" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/></a>&nbsp;
+<a href="https://www.npmjs.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/></a>&nbsp;
+<a href="https://dotnet.microsoft.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET"  alt=".NET" width="40" height="40"/></a>&nbsp;
+<a href="https://www.nuget.org" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="NuGet"  alt="NuGet" width="40" height="40"/></a>&nbsp;
+<a href="https://git-scm.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git"  alt="git" width="40" height="40"/></a>&nbsp;
 
 IDEs:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ"  alt="IntelliJ" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="PyCharm"  alt="PyCharm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rubymine/rubymine-plain.svg" title="RubyMine"  alt="RubyMine" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode"  alt="Xcode" width="40" height="40"/>&nbsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="40" height="40"/></a>&nbsp;
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm"  alt="PyCharm" width="40" height="40"/></a>&nbsp;
+<a href="https://www.jetbrains.com/ruby/" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/rubymine/rubymine-original.svg" title="RubyMine"  alt="RubyMine" width="40" height="40"/></a>&nbsp;
+<a href="https://www.jetbrains.com/webstorm" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm"  alt="WebStorm" width="40" height="40"/></a>&nbsp;
+<a href="https://visualstudio.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/></a>&nbsp;
+<a href="https://code.visualstudio.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/></a>&nbsp;
+<a href="https://developer.apple.com/xcode" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode"  alt="Xcode" width="40" height="40"/></a>&nbsp;
 
 DBs:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+<a href="https://mysql.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+<a href="https://sqlite.org" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/></a>&nbsp;
+<a href="https://mongodb.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/></a>&nbsp;
 
 ## 🔥 My stats
 <div id="header" align="center">
