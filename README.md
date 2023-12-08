@@ -1,13 +1,14 @@
 <div id="header" align="center">
-  
-  <img src="https://media1.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=ecf05e479khk89lyqvytwfvzckv9z8p3yll2i1db1m7hvvwe&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-  <hr>
-  
+    
   [![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lucamazzza)
   [![DISCORD](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/B3yXwmHb2V)
   [![𝕏](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/mazluc_ch)
+  [![COFFEE](https://img.shields.io/badge/Twitter-red?logo=x&logoColor=white&style=for-the-badge)](https://github.com/sponsors/lucamazzza?frequency=one-time&sponsor=lucamazzza)
+
+  
   
 </div>
+
 
 ## 👤 About me
 Hi, I am a 21 y.o. Developer from Lugano, Switzerland🇨🇭.
