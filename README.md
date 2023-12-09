@@ -20,6 +20,7 @@ In my backlog there are some projects, not really defined yet, but the idea is t
 * **BMath**: `Python` library aimed at procuring easy-to-use advanced maths functions;
 * **BPhysics**: `C#` library aimed at procuring easy-to-use physics calculation functions;
 * **integrb**: `Ruby` gem aimed at easing data integrity checks.
+* **BLog**: `Swift` package aimed at providing an intelligent (error) logging solution.
 
 I’m currently studying @SUPSI, as Computer Engineer and I'm to collaborate on building new libraries and possibly helping you out with your project. 
 Feel free to help me out, by contributing to my repositories and projects.
