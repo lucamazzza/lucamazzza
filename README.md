@@ -13,7 +13,7 @@ Hi, I am a 21 y.o. Developer from Lugano, Switzerland🇨🇭.
 
 > [**BData**](https://github.com/lucamazzza/BData/releases/tag/v1.0.0), a `Java` datatypes library, has just been released!
 
-I'm currently working on [**BLog**](https://github.com/lucamazzza/BLog.git), a `Swift` package aimed at providing an intelligent (error) logging solution.
+I'm currently working on [**BLog**](https://github.com/lucamazzza/BLog.git), a `Swift` package aimed at providing an intelligent (error) logging solution, with DB integration.
 
 In my backlog there are some projects, not really defined yet, but the idea is there:
 * **ptrees**: `C` / `C++` library aimed at managing and storing pointers in binary trees;
