@@ -1,11 +1,9 @@
-<div id="header" align="center">
+ <div id="header" align="center">
     
   [![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lucamazzza)
   [![DISCORD](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/B3yXwmHb2V)
   [![𝕏](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/mazluc_ch)
   [![COFFEE](https://img.shields.io/badge/Buy_me_a_coffee-red?style=for-the-badge)](https://github.com/sponsors/lucamazzza?frequency=one-time&sponsor=lucamazzza)
-
-  
   
 </div>
 
@@ -13,14 +11,15 @@
 ## 👤 About me
 Hi, I am a 21 y.o. Developer from Lugano, Switzerland🇨🇭.
 
-I’m currently working on [BData](https://github.com/lucamazzza/BData.git), a `Java` library, built with `Gradle`. It implements some new data type.
+> [**BData**](https://github.com/lucamazzza/BData/releases/tag/v1.0.0), a `Java` datatypes library, has just been released!
+
+I'm currently working on [**BLog**](https://github.com/lucamazzza/BLog.git), a `Swift` package aimed at providing an intelligent (error) logging solution.
 
 In my backlog there are some projects, not really defined yet, but the idea is there:
 * **ptrees**: `C` / `C++` library aimed at managing and storing pointers in binary trees;
 * **BMath**: `Python` library aimed at procuring easy-to-use advanced maths functions;
 * **BPhysics**: `C#` library aimed at procuring easy-to-use physics calculation functions;
 * **integrb**: `Ruby` gem aimed at easing data integrity checks.
-* **BLog**: `Swift` package aimed at providing an intelligent (error) logging solution.
 
 I’m currently studying @SUPSI, as Computer Engineer and I'm to collaborate on building new libraries and possibly helping you out with your project. 
 Feel free to help me out, by contributing to my repositories and projects.
