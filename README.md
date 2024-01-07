@@ -1,5 +1,6 @@
  <div id="header" align="center">
-    
+
+  ![](https://komarev.com/ghpvc/?username=lucamazzza&abbreviated=true)
   [![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lucamazzza)
   [![DISCORD](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/B3yXwmHb2V)
   [![𝕏](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/mazluc_ch)
