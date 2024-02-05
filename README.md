@@ -30,15 +30,14 @@ You can reach out to me on [LinkedIn](https://linkedin.com/in/lucamazzza), or by
 
 Programming languages:
 
-<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=java&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
-<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=kotlin&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;
-<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=swift&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift"  alt="Swift" width="40" height="40"/></a>&nbsp;
-<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=python&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton"  alt="Python" width="40" height="40"/></a>&nbsp;
-<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=ruby&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby"  alt="Ruby" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=c&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++"  alt="C++" width="40" height="40"/></a>&nbsp;
+<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=java&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
+<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=swift&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift"  alt="Swift" width="40" height="40"/></a>&nbsp;
+<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=python&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton"  alt="Python" width="40" height="40"/></a>&nbsp;
+<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=kotlin&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;
+<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=rust&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust"  alt="Rust" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#"  alt="C#" width="40" height="40"/></a>&nbsp;
-<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>&nbsp;
 
 Scripting & Markup languages:
 
