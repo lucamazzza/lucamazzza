@@ -30,8 +30,9 @@ Programming languages:
 <a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=swift&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift"  alt="Swift" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=python&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyhton"  alt="Python" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=kotlin&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/></a>&nbsp;
-<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=rust&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust"  alt="Rust" width="40" height="40"/></a>&nbsp;
+<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=rust&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#"  alt="C#" width="40" height="40"/></a>&nbsp;
+<a href="https://github.com/lucamazzza?tab=repositories&q=&type=&language=ace%23&sort=" target="_blank" style="text-decoration: none;"><img src="https://github.com/acelng/ace/blob/main/resources/ACELogo.png?raw=true" title="ace"  alt="ace" width="40" height="40"/></a>&nbsp;
 
 Scripting & Markup languages:
 
@@ -41,7 +42,7 @@ Scripting & Markup languages:
 
 Frameworks & Package managers:
 
-<a href="https://gradle.org" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="40" height="40"/></a>&nbsp;
+<a href="https://gradle.org" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle"  alt="Gradle" width="40" height="40"/></a>&nbsp;
 <a href="https://www.npmjs.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/></a>&nbsp;
 <a href="https://dotnet.microsoft.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET"  alt=".NET" width="40" height="40"/></a>&nbsp;
 <a href="https://www.nuget.org" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="NuGet"  alt="NuGet" width="40" height="40"/></a>&nbsp;
@@ -58,7 +59,7 @@ IDEs:
 
 DBs:
 
-<a href="https://mysql.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+<a href="https://mysql.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
 <a href="https://sqlite.org" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/></a>&nbsp;
 <a href="https://mongodb.com" target="_blank" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/></a>&nbsp;
 
@@ -72,7 +73,7 @@ DBs:
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucamazzza&rank_icon=github&bg_color=111&title_color=fff&text_color=fff" />
   </a>
   <a href="https://github.com/lucamazzza">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucamazzza&layout=compact&langs_count=8&bg_color=111&title_color=fff&text_color=fff" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucamazzza&org=acelng&layout=compact&langs_count=8&bg_color=111&title_color=fff&text_color=fff&hide=cmake" />
   </a>
 </div>
 
