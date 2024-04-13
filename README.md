@@ -13,7 +13,7 @@ Hi, I am a 21 y.o. Developer from Lugano, Switzerland🇨🇭.
 
 > [**BData**](https://github.com/lucamazzza/BData/releases/tag/v1.0.0), a `Java` datatypes library, has just been released!
 
-I'm currently working on [**ace**](https://github.com/acelng), a low-level programming language.
+I'm currently working on [**CMath**](https://github.com/lucamazzza/cmath), a complete CLI calculator.
 
 I’m currently studying @SUPSI, as Computer Engineer and I'm to collaborate on building new libraries and possibly helping you out with your project. 
 Feel free to help me out, by contributing to my repositories and projects.
