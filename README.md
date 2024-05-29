@@ -17,17 +17,18 @@ I have started my experience as a software developer earlier on since 6th grade,
 I then moved on to programming in C and C++, of which I am really fond of, but recently I have been attracted to Rust, mainly by the strong performance capabilities and compile-time integrity.
 
 # 🛠️ Languages & Tools I use
-
-<img src="https://devicon-website.vercel.app/api/c/line.svg" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/cplusplus/line.svg" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23DD3428" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/swift/plain.svg?color=%23F05138" width="40" height="40"/>
-<img src="https://devicon-website.vercel.app/api/scala/original.svg" width="40" height="40" />
-<img src="https://devicon-website.vercel.app/api/clojure/line.svg?color=%2376AF47" width="40" height="40" />
-<br>
-<img src="https://devicon-website.vercel.app/api/xcode/plain.svg" width="40" height="40" />
-<img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="40" height="40" />
-<img src="https://devicon-website.vercel.app/api/docker/plain.svg" width="40" height="40" />
+<div>
+ <img src="https://devicon-website.vercel.app/api/c/line.svg" width="40" height="40"/>
+ <img src="https://devicon-website.vercel.app/api/cplusplus/line.svg" width="40" height="40"/>
+ <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23DD3428" width="40" height="40"/>
+ <img src="https://devicon-website.vercel.app/api/swift/plain.svg?color=%23F05138" width="40" height="40"/>
+ <img src="https://devicon-website.vercel.app/api/scala/original.svg" width="40" height="40" />
+ <img src="https://devicon-website.vercel.app/api/clojure/line.svg?color=%2376AF47" width="40" height="40" />
+ <br>
+ <img src="https://devicon-website.vercel.app/api/xcode/plain.svg" width="40" height="40" />
+ <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="40" height="40" />
+ <img src="https://devicon-website.vercel.app/api/docker/plain.svg" width="40" height="40" />
+</div>
 
 ## 🔥 My stats
 
