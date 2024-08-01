@@ -25,8 +25,8 @@ I then moved on to programming in C and C++, of which I am really fond of, but r
  <img src="https://devicon-website.vercel.app/api/scala/original.svg" width="40" height="40" />
  <img src="https://devicon-website.vercel.app/api/clojure/line.svg?color=%2376AF47" width="40" height="40" />
  <br>
- <img src="https://devicon-website.vercel.app/api/xcode/plain.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40"/>
+ <img src="https://devicon-website.vercel.app/api/xcode/plain.svg" width="40" height="40" />
  <img src="https://devicon-website.vercel.app/api/docker/plain.svg" width="40" height="40" />
 </div>
 
