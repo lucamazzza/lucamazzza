@@ -1,7 +1,5 @@
  <div id="header" align="center">
 
-  [![BENTO](https://img.shields.io/badge/Bento-white?logo=Bento&logoColor=black&style=for-the-badge)](https://bento.me/mazluc)
-  [![DISCORD](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/B3yXwmHb2V)
   [![𝕏](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/mazluc_ch)
   [![COFFEE](https://img.shields.io/badge/Buy_me_a_coffee-red?style=for-the-badge)](https://github.com/sponsors/lucamazzza?frequency=one-time&sponsor=lucamazzza)
   
