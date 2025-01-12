@@ -6,13 +6,12 @@
 </div>
 
 # 👤 About me
+
 Hi, I am a 22 y.o. Developer from Lugano, Switzerland🇨🇭.
 
 I am a software engineering student [@SUPSI](https://supsi.ch) and in my spare time I like to develop software, mainly in Rust.
 
-I have started my experience as a software developer earlier on since 6th grade, in which I took am extracurricular programming course, in which I developed a simple Snake game in Java.
-
-I then moved on to programming in C and C++, of which I am really fond of, but recently I have been attracted to Rust, mainly by the strong performance capabilities and compile-time integrity.
+I began my programming journey in sixth grade, participating in a course that led to the creation of a Snake game in Java. This marked the beginning of my sustained interest in programming, which continued through high school. I decided to become a developer and my path continued at Samt, where I built the foundation of my knowledge. I then improved my skills thoroughly during and after my military service, learning Rust, Swift and C++.
 
 # 🛠️ Languages & Tools I use
 <div>
