@@ -34,10 +34,10 @@ I then moved on to programming in C and C++, of which I am really fond of, but r
 ![](https://komarev.com/ghpvc/?username=lucamazzza&abbreviated=true&style=for-the-badge&abbreviated=true&color=blueviolet)
  
   <a href="https://github.com/lucamazzza/">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucamazzza&rank_icon=github&bg_color=111&title_color=fff&text_color=fff" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucamazzza&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/lucamazzza">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucamazzza&org=acelng&layout=compact&langs_count=8&bg_color=111&title_color=fff&text_color=fff&hide=cmake" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucamazzza&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </div>
 
