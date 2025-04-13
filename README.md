@@ -7,7 +7,7 @@
 
 # 👤 About me
 
-Hi, I am a 22 y.o. Developer from Lugano, Switzerland🇨🇭.
+Hi, I am a 23 y.o. Developer from Lugano, Switzerland🇨🇭.
 
 I am a software engineering student [@SUPSI](https://supsi.ch) and in my spare time I like to develop software, mainly in Rust.
 
