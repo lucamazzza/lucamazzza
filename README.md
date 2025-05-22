@@ -17,12 +17,16 @@ I began my programming journey in sixth grade, participating in a course that le
 <div>
  <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23DD3428" width="40" height="40"/>
  <img src="https://devicon-website.vercel.app/api/c/line.svg" width="40" height="40"/>
+ <img src="https://devicon-website.vercel.app/api/csharp/line.svg" width="40" height="40"/>
  <img src="https://devicon-website.vercel.app/api/cplusplus/line.svg" width="40" height="40"/>
  <img src="https://devicon-website.vercel.app/api/swift/plain.svg?color=%23F05138" width="40" height="40"/>
  <img src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23FF1120" width="40" height="40"/>
+ <img src="https://devicon-website.vercel.app/api/elixir/plain.svg?color=%239A54B1" width="40" height="40"/>
  <br>
+ <img src="https://devicon-website.vercel.app/api/phoenix/original.svg" width="40" height="40" />
+ <img src="https://devicon-website.vercel.app/api/spring/original.svg" width="40" height="40" />
+ <img src="https://devicon-website.vercel.app/api/dot-net/plain.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40"/>
- <img src="https://devicon-website.vercel.app/api/xcode/plain.svg" width="40" height="40" />
  <img src="https://devicon-website.vercel.app/api/docker/plain.svg" width="40" height="40" />
 </div>
 
