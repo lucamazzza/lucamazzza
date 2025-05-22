@@ -37,10 +37,10 @@ I began my programming journey in sixth grade, participating in a course that le
 ![](https://komarev.com/ghpvc/?username=lucamazzza&abbreviated=true&style=for-the-badge&abbreviated=true&color=blueviolet)
  
   <a href="https://github.com/lucamazzza/">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucamazzza&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucamazzza&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/lucamazzza">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucamazzza&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucamazzza&theme=radical&show_icons=true&hide_border=true&layout=compact&exclude_repo=ufo,spoty" />
   </a>
 </div>
 
