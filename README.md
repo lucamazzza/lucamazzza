@@ -13,6 +13,7 @@ I am a software engineering student [@SUPSI](https://supsi.ch) and in my spare t
 
 I began my programming journey in sixth grade, participating in a course that led to the creation of a Snake game in Java. This marked the beginning of my sustained interest in programming, which continued through high school. I decided to become a developer and my path continued at Samt, where I built the foundation of my knowledge. I then improved my skills thoroughly during and after my military service, learning Rust, Swift and C++.
 
+During my time @SUPSI I specialized in Cybersecurity and all its main fields.
 # 🛠️ Languages & Tools I use
 <div>
  <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23DD3428" width="40" height="40"/>
