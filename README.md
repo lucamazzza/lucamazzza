@@ -1,7 +1,7 @@
  <div id="header" align="center">
 
   [![Bento](https://img.shields.io/badge/Bento-white?logo=bento&logoColor=black&style=for-the-badge)](https://bento.me/mazluc)
-  [![CV](https://img.shields.io/badge/Curriculum%20Vitae-grey?logo=read&logoColor=white&style=for-the-badge)](https://read.cv/mazluc)
+
   
 </div>
 
