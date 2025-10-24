@@ -29,6 +29,7 @@ During my time @SUPSI I specialized in Cybersecurity and all its main fields.
  <img src="https://devicon-website.vercel.app/api/dot-net/plain.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40"/>
  <img src="https://devicon-website.vercel.app/api/docker/plain.svg" width="40" height="40" />
+ <img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23959595" width="40" height="40" />
 </div>
 
 ## 🔥 My stats
