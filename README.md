@@ -1,7 +1,5 @@
  <div id="header" align="center">
 
-  [![Bento](https://img.shields.io/badge/Bento-white?logo=bento&logoColor=black&style=for-the-badge)](https://bento.me/mazluc)
-
   
 </div>
 
