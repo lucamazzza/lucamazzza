@@ -19,7 +19,6 @@ I began my programming journey in sixth grade, participating in a course that le
  <img src="https://devicon-website.vercel.app/api/cplusplus/line.svg" width="40" height="40"/>
  <img src="https://devicon-website.vercel.app/api/swift/plain.svg?color=%23F05138" width="40" height="40"/>
  <img src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23FF1120" width="40" height="40"/>
- <img src="https://devicon-website.vercel.app/api/elixir/plain.svg?color=%239A54B1" width="40" height="40"/>
  <img src="https://devicon-website.vercel.app/api/opengl/original.svg" width="40" height="40" />
  <br>
  <img src="https://devicon-website.vercel.app/api/phoenix/original.svg" width="40" height="40" />
