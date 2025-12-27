@@ -28,6 +28,6 @@ Tech Stack
 
 <p align="center">
  
-<img src="https://githubcard.com/lucamazzza.svg?d=hVV8uD8I" alt="Luca's Streak" />
-
+<img src="https://githubcard.com/lucamazzza.svg?d=hVV8uD8I" alt="PLs" />
+<img src="https://githubcard.com/lucamazzza.svg?d=r-VlwUIt" alt="CHM" />
 </p>
