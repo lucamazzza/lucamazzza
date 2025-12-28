@@ -10,7 +10,7 @@ About me
 
 I am an Engineer Developer and Graphics enthusiast from Lugano, Switzerland🇨🇭
 
-My engineering philosophy centers on building high-performance systems from the ground up. I am most at home architecting custom game engines using **OpenGL** & **GLFW**, or designing low-level libraries that push the boundaries of what standard tools offer.
+My engineering philosophy centers on building high-performance systems from the ground up. I am most at home architecting custom graphics engines using **OpenGL** & **GLFW**, or designing low-level libraries that push the boundaries of what standard tools offer.
 
 * **Education**: Computer Science Engineering @**SUPSI**
 * **Roots:** Started coding in Java in 6th grade; honed technical discipline at **SAMT** and during military service.
