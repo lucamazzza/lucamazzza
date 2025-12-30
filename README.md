@@ -16,6 +16,11 @@ My engineering philosophy centers on building high-performance systems from the 
 * **Roots:** Started coding in Java in 6th grade; honed technical discipline at **SAMT** and during military service.
 * **Core Focus:** Graphics Programming, Engine Architecture, and Embedded Systems.
 
+Currently Working On...
+-----------------------
+
+- [ ] [lmgl](https://github.com/lucamazzza/lmgl) - a modern OpenGL Engine Library
+
 Tech Stack
 ----------
 <p align="center">
