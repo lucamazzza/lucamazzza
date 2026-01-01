@@ -20,7 +20,7 @@ Currently Working On...
 -----------------------
 
 - [ ] [lmgl](https://github.com/lucamazzza/lmgl) - a modern OpenGL Engine Library
-
+- [ ] My bachelor's degree
 Tech Stack
 ----------
 <p align="center">
