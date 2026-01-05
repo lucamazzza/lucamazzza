@@ -19,7 +19,7 @@ My engineering philosophy centers on building high-performance systems from the 
 Currently Working On...
 -----------------------
 
-- [ ] [lmgl](https://github.com/lucamazzza/lmgl) - a modern OpenGL Engine Library
+- [ ] [lmgl](https://github.com/lucamazzza/lmgl) - a modern OpenGL Engine Library written in C++
 - [ ] My bachelor's degree in Computer Science Engineering (150/180 ECTS)
 
 Tech Stack
