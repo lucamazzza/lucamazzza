@@ -20,7 +20,7 @@ Currently Working On...
 -----------------------
 
 - [ ] [`lmgl`](https://github.com/lucamazzza/lmgl) - a modern OpenGL (4.2) Engine Library written in C++
-- [ ] [`vimt`](https://github.com/lucamazza/) - interact with macOS through vim motions
+- [ ] [`vimt`](https://github.com/lucamazzza/vimt) - interact with macOS through vim motions
 - [ ] My bachelor's degree in Computer Science Engineering (150/180 ECTS)
 
 Tech Stack
