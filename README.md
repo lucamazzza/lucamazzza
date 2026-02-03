@@ -27,7 +27,7 @@ Tech Stack
 ----------
 <p align="center">
 
-<img src="https://skills.syvixor.com/api/icons?perline=5&i=apple,c,cpp,rust,java,opengl,unity,neovim,git,docker,appwrite,azure,cmake,maven,latex&theme=dark"/>
+<img src="https://skills.syvixor.com/api/icons?perline=8&i=apple,c,cpp,rust,java,qt,opengl,unity,neovim,git,docker,appwrite,azure,cmake,maven,latex&theme=dark"/>
 
 </p>
 
