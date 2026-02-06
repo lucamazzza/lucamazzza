@@ -19,7 +19,7 @@ My engineering philosophy centers on building high-performance systems from the 
 Currently Working On...
 -----------------------
 
-- [ ] [`lmgl`](https://github.com/lucamazzza/lmgl) - a modern OpenGL (4.2) Engine Library written in C++
+- [ ] [`lmgl`](https://github.com/lucamazzza/lmgl) - a modern OpenGL (4.1) Engine Library written in C++
 - [ ] [`vimt`](https://github.com/lucamazzza/vimt) - interact with macOS through vim motions
 - [ ] My bachelor's degree in Computer Science Engineering (150/180 ECTS)
 
