@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Luca%20Mazza&reversal=false&fontAlign=50&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=gradient&text=Luca%20Mazza&reversal=false&fontAlign=50&animation=fadeIn&fontColor=ffffff"/>
 
 </div>
 
