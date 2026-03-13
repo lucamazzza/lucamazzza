@@ -38,7 +38,7 @@ Tech Stack
 
 <p align="center">
  
-<img src="https://githubcard.com/lucamazzza.svg?d=hVV8uD8I" alt="PLs" />
-<img src="https://githubcard.com/lucamazzza.svg?d=r-VlwUIt" alt="CHM" />
+<img src="https://raw.githubusercontent.com/lucamazzza/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/lucamazzza/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 
 </p>
