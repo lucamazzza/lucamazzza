@@ -4,7 +4,6 @@
 
 </div>
 
-
 About me
 --------
 
@@ -17,6 +16,9 @@ My engineering philosophy centers on building high-performance systems from the 
 * **Core Focus:** Graphics Programming, Engine Architecture, and Embedded Systems.
 
 > If I'm not on GitHub, I am probably working on Cybersecurity stuff :)
+
+<a href="https://mazluc.ch/" target="_blank"><img src="https://img.shields.io/badge/Website-23333333?style=for-the-badge&labelColor=%23ffffff&color=%23333333&logoSize=auto"/></a>
+<a href="https://mazluc.ch/cv" target="_blank"><img src="https://img.shields.io/badge/CV-23333333?style=for-the-badge&labelColor=%23ffffff&color=%23333333&logoSize=auto"/></a>
 
 Currently Working On...
 -----------------------
