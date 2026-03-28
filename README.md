@@ -14,6 +14,7 @@ My engineering philosophy centers on building high-performance systems from the 
 * **Education**: Computer Science Engineering @**SUPSI**
 * **Roots:** Started coding in Java in 6th grade; honed technical discipline at **SAMT** and during military service.
 * **Core Focus:** Graphics Programming, Engine Architecture, and Embedded Systems.
+* Some special Graphics stuff
 
 > If I'm not on GitHub, I am probably working on Cybersecurity stuff :)
 
