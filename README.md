@@ -27,7 +27,7 @@ Currently Working On...
 - [ ] [`lmgl`](https://github.com/lucamazzza/lmgl) - a modern OpenGL (4.1) Engine Library written in C++ - *XR Integrations*
 - [ ] A [*Special*](https://github.com/lucamazzza/hl) Computer Build :)
 - [ ] [`vimt`](https://github.com/lucamazzza/vimt) - interact with macOS through vim motions
-- [ ] My bachelor's degree in Computer Science Engineering (150/180 ECTS)
+- [ ] My bachelor's degree in Computer Science Engineering! (150/180 ECTS)
 
 Tech Stack
 ----------
