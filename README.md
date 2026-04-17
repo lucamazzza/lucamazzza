@@ -7,7 +7,7 @@
 About me
 --------
 
-I am an Engineer Developer and Graphics enthusiast from Lugano, Switzerland ⛰️🇨🇭
+I am a Software Engineer Developer and Graphics enthusiast from Lugano, Switzerland ⛰️🇨🇭
 
 My engineering philosophy centers on building high-performance systems from the ground up. I am most at home architecting custom graphics engines using **OpenGL** & **GLFW**, or designing low-level libraries that push the boundaries of what standard tools offer.
 
