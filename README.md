@@ -28,7 +28,7 @@ Currently Working On...
 - [ ] A [*Special*](https://github.com/lucamazzza/hl) homelab Build :)
 - [ ] [`vimt`](https://github.com/lucamazzza/vimt) - interact with macOS through vim motions
 - [ ] [`proxy`](https://github.com/lucamazzza/proxy) - appwrite as BaaS Middleware
-- [ ] My bachelor's degree in Computer Science Engineering! (150/180 ECTS)
+- [ ] My bachelor's degree in Computer Science Engineering! (168/180 ECTS)
 
 Tech Stack
 ----------
