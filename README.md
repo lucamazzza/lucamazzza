@@ -27,6 +27,7 @@ Currently Working On...
 - [ ] [`lmgl`](https://github.com/lucamazzza/lmgl) - a modern OpenGL (4.1) Engine Library written in C++ - *XR Integrations*
 - [ ] A [*Special*](https://github.com/lucamazzza/hl) homelab Build :)
 - [ ] [`vimt`](https://github.com/lucamazzza/vimt) - interact with macOS through vim motions
+- [ ] [`wgpu_vr`](https://github.com/lucamazzza/wgpu_vr) - feasibility of integration between WebGPU and OpenXR/OpenVR
 - [ ] My bachelor's degree in Computer Science Engineering! (168/180 ECTS)
 
 Tech Stack
