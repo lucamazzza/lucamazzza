@@ -33,7 +33,7 @@ Tech Stack
 ----------
 <p align="center">
 
-<img src="https://skills.syvixor.com/api/icons?perline=8&i=apple,c,cpp,rust,java,qtwidgets,dotnet,opengl,unity,git,neovim,cmake,docker,appwrite,apachemaven,latex"/>
+<img src="https://skills.syvixor.com/api/icons?perline=8&i=apple,c,cpp,rust,java,qtwidgets,dotnet,opengl,unity,git,neovim,cmake,docker,appwrite,apachemaven,latex,terraform,vagrant,kalilinux,metasploit,cisco,ghidra,assembly,nmap"/>
 
 </p>
 
