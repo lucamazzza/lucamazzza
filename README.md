@@ -27,7 +27,7 @@ Currently Working On...
 - [ ] A [*Special*](https://github.com/lucamazzza/hl) homelab Build :)
 - [ ] [`vimt`](https://github.com/lucamazzza/vimt) - interact with macOS through vim motions
 - [ ] [`wgpu_vr`](https://github.com/lucamazzza/wgpu_vr) - feasibility of integration between WebGPU and OpenXR/OpenVR - My Bachelor's Thesis
-- [ ] My bachelor's degree in Computer Science Engineering! (168/180 ECTS)
+- [ ] My bachelor's degree in Computer Science Engineering! (168/180 ECTS | 5.3/6.0)
 
 Tech Stack
 ----------
